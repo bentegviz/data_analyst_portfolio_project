@@ -142,9 +142,8 @@ JOIN [owid-covid-data_vaccinations] vac
 WHERE dea.continent is not null
 
 
+--TODO Create more views for Tableau
+CREATE VIEW view2 AS
 
 
 
-
-
---ended https://www.youtube.com/watch?v=qfyynHBFOsM&t=1559s @ 36:00
