@@ -1,9 +1,9 @@
 # Data Analyst Portfolio Projects
 
-## Features
-SQL for Data Analysis
-Tableau for Data Visualization
-SQL for Data Exploration
+## Features  
+SQL for Data Exploration  
+Tableau for Data Visualization  
+SQL for Data Cleaning    
 
 ## Links
 
